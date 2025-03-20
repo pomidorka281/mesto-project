@@ -1,0 +1,9 @@
+.form__input-error {
+    display: none;
+}
+
+.form__input-error_active {
+    display: block;
+    color: red;
+}
+
